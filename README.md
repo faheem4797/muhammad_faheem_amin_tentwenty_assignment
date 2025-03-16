@@ -1,16 +1,10 @@
 # muhammad_faheem_amin_tentwenty_assignment
 
-A new Flutter project.
+tentwenty assignment submitted by Muhammad Faheem Amin
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Demo screen recording (Public): https://drive.google.com/file/d/1aL8uxYL9hgjwB7MUSeOYCZijxJDuNueu/view?usp=sharing
 
-A few resources to get you started if this is your first Flutter project:
+APK file (Public): [https://drive.google.com/file/d/1rZpA5akHEUj2NiU1Z7aNykb2zod2VBvb/view?usp=sh](https://drive.google.com/file/d/1rZpA5akHEUj2NiU1Z7aNykb2zod2VBvb/view?usp=drive_link)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
